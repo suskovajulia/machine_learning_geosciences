@@ -1,2 +1,3 @@
 # machine_learning_geosciences
-Preparation codes for Machine Learning inGeosciences
+
+Repository for Machine Learning in Geosciences couse. Code will be updated weekly according to leactures update. 
