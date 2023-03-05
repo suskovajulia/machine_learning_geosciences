@@ -5,3 +5,6 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 1/ Python reminder (exercises) 
 
 2/ Python Data Science (NumPy, Pandas, Matplotlib, Seaborn) 
+
+3/ Optimisation (Gradient Descent) 
+
