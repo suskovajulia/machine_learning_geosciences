@@ -4,15 +4,16 @@ Repository for Machine Learning in Geosciences couse. Code will be updated weekl
 
 1/ Python reminder (self-test)
 
-2/ Scikit-learn API introduction
+2/ -
 
-3/ Numpy linear algebra & Python data science (Matplotlib) 
+3/ Scikit-learn API introduction
 
-4/ 
+4/ Numpy linear algebra & Python data science
 
-5/ Linear and polynomial model 
+5/ Fundamental algorithms
 
 6/ Model generalization 
 
+7/ Model regularization
 
-
+8/ ML workflow
